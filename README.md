@@ -7,3 +7,4 @@ Aggregation of Anti Corruption and Anti Collusion Technologies
 
 ## Government Organisations
 - https://www.osce.org/chairmanship/454696
+- https://pathwayscommission.bsg.ox.ac.uk/Fight-against-corruption-paper
